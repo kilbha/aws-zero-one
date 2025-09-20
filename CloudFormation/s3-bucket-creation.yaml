@@ -3,3 +3,5 @@ Resources:
     Type: "AWS::S3::Bucket"
     Properties:
       BucketName: "demo.kilbha.com"
+      VersioningConfiguration: 
+        Status: Enabled
