@@ -1,3 +1,11 @@
 test-user-01_credentials.csv
 test-user-02_credentials.csv
 aws-env/*
+Projects/Terraform-AWS/.terraform/*
+Projects/Terraform-AWS/*.tfstate
+Projects/Terraform-AWS/*.hcl
+Projects/Terraform-AWS/*.backup
+Projects/Terraform-Day32/.terraform/*
+Projects/Terraform-Day32/*.tfstate
+Projects/Terraform-Day32/*.hcl
+Projects/Terraform-Day32/*.backup
